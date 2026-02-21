@@ -1,9 +1,9 @@
-## flame - a simple program to 
-## help you get started with python!
+## flame - 1.0 
+## a simple program to help you get started with python!
 
 **for debian based linux distros only!**
 
-#how to use
+## how to use
 
 1. clone this git repo
 
