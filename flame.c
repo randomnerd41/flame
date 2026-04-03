@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <stdio.h>
 
-// v1.0 - foss - GPL 3.0
+// v1.0_archived - foss - GPL 3.0
 // made by randomnerd41.
 
 int main() {
