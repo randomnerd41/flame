@@ -18,8 +18,8 @@ to run as executeable"
 4. left click the executeable or
 in a terminal type "./flame"
 
-#about
-this program will use apt to install stuff!
+# about
+this program will use **sudo** apt to install stuff!
 the progam will also install thonny.
 
 thonny:
